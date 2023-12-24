@@ -27,10 +27,21 @@ h1 {
 
 h2 {
   text-align: left;
-  margin-top: 5rem;
+  margin-top: 3rem;
 }
+
+
 
 .fuel {
   display: flex;
   gap: 5rem;
+}
+
+.new-inputs{
+  display: flex;
+  align-items: center;
+  column-gap: 1rem;
+  
+  
+ 
 }
