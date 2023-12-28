@@ -49,6 +49,7 @@ const Fuel = () => {
                     <p>Fuel: { thisMonthFuel } L</p>
                     <p>Km run: { thisMonthKm } Km</p>
                     <p>Km/liter: { thisMonthKmPerLiter } Km/L</p>
+                    <h4>Total spent: --- </h4>
                 </div>
             </div>
         </>
